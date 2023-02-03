@@ -60,6 +60,7 @@ body {
 .card .box:hover {
     box-shadow: 0px 0px 20px 1px #ffbb763f;
     border: 1px solid rgba(255, 255, 255, 454);
+    margin-top: -30px;
 }
 
 input {
